@@ -1,0 +1,45 @@
+
+
+'1':modo=POINTS;
+'2':modo=EDGES;
+'3':modo=SOLID;
+'4':modo=SOLID_CHESS;
+'5':modo=SOLID_ILLUMINATED_FLAT;
+'6':modo=SOLID_ILLUMINATED_GOURAUD;
+'7':luces1=!luces1;
+'8':luces2=!luces2;
+'9':luces3=!luces3;
+'P':t_objeto=PIRAMIDE;
+'C':t_objeto=CUBO;
+'O':t_objeto=OBJETO_PLY;
+'R':t_objeto=ROTACION;
+'A':t_objeto=ARTICULADO;
+'E':t_objeto=ESFERA;
+'K':anguloluz=anguloluz+2;
+'Y':material=(material+1)%4;
+
+Se ha comentado las teclas del tanque de ejemplo que se dio en las practicas.
+Para ver el objeto articulado pulsar 'Z'.
+
+Para mover las articulaciones.
+
+
+F4:Mover la primera articulación.
+F5:Mover la primera articulación al contrario.
+
+F6:Mover la segunda articulación.
+F7:Mover la segunda articulación al contrario.
+
+F8:Mover la tercera articulación.
+F9:Mover la tercera articulación al contrario.
+
+La animación activa las tres articulaciones.
+
+F10:Para activar la animación:
+F11:Para desactivar la animación.
+
+F1:Para aumentar la velocidad de la primera articulación.
+F2:Para disminuir la velocidad de la primera articulación.
+
+F3:Para aumentar la velocidad de la segunda articulación.
+F12:Para disminuir la velocidad de la segunda articulación.

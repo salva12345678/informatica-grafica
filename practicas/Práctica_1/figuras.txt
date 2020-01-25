@@ -1,0 +1,5 @@
+
+Se ha realizado la figura del cubo ,piramide ,rombo y un paralelepípedo(en el codigo pone prisma) y piramide con corte
+Se ha realizado las funciones draw_solido ,draw_solido_ajedrez y draw_aristas.
+
+para visualizar comentar y descomentar en la funcion draw_objects().
